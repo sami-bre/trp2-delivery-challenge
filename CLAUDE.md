@@ -86,12 +86,10 @@ Show the **word count under each written part**.
 
 ## Repo
 
-This project will be pushed to a git repo, and the answers link to files in it.
-- Links to repo files use the placeholder `REPO_URL` (e.g. `REPO_URL/blob/main/analysis/grade.py`).
-  Replace every `REPO_URL` once the repo exists: `grep -rn REPO_URL answers/`.
-- Before the first push: `.env` (OpenRouter key) must stay out — it's in `.gitignore`; check with
-  `git status` that it isn't staged. `analysis/out/` holds results; keep it (the answers cite it).
-- Ask the user before pushing or making the repo public.
+Public repo: https://github.com/sami-bre/trp2-delivery-challenge (branch `main`, includes `data/`).
+- Answers link to repo files with full URLs (the `REPO_URL` placeholder is already replaced).
+- `.env` (OpenRouter key) is gitignored. Never commit it. Rotate the key after the challenge.
+- Ask the user before any further push that adds data or changes visibility.
 
 ## Decisions so far
 
@@ -151,5 +149,5 @@ This project will be pushed to a git repo, and the answers link to files in it.
    - Charts: `charts/*.png` from `analysis/charts.py`; placement in `charts/README.md`
      (1 funnel + 4 wrong channel → Task 2, 2 vendor vs real → Task 3, 3 model test → Task 4).
    - All 7 tasks drafted. Left: assemble the Google Doc, share both sheets + doc "anyone can view",
-     confirm Inkling release date, push repo and replace REPO_URL.
+     (done: Inkling date confirmed, repo pushed, REPO_URL replaced).
    - Write conflicts and answers so a reader with little context can follow.
