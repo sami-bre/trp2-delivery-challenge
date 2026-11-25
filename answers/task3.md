@@ -1,8 +1,7 @@
 # Task 3: Build an eval
 
 Scoring sheet: [TRP2 W0 - Ivy Eval Scoring Sheet (Task 3)](https://docs.google.com/spreadsheets/d/1swOqkOm-SPvSRQUXH1KW1kdcVENunuYkuYDdfRfuBBg/edit). It holds one row per conversation, pass or fail per criterion, and a reason for each.
-Method: C1 and C3 were checked by code. C2 and C4 were checked by an AI judge (GLM-5.3-Flash), which ran
-3 times per draft and took the majority. All 80 results were then checked by hand. Script: [analysis/grade.py](https://github.com/sami-bre/trp2-delivery-challenge/blob/main/analysis/grade.py).
+Method: C1 and C3 were checked by code. C2 and C4 were checked by an AI judge (GLM-5.3-Flash), which ran 3 times per draft and took the majority. All 80 results were then checked by hand. Script: [analysis/grade.py](https://github.com/sami-bre/trp2-delivery-challenge/blob/main/analysis/grade.py).
 
 | Criterion | Business priority it protects | Pass or fail rule | Ivy pass rate (out of 20) |
 |---|---|---|---|

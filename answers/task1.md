@@ -4,7 +4,7 @@
 
 | Rank | What the business needs | Who wants it | Why it matters |
 |---|---|---|---|
-| 1 | Keep franchise owners renewing and in the network | Priya and the Owner Council; Lumen HQ | 11 of 40 studios renew on 31 March 2027. More than one owner says they won't pay for Ivy again, and two talk about leaving Lumen. Losing Ivy fees from those 11 studios alone means $5,500 a month, almost all of Ivy's $6,000 monthly cost. An owner who leaves also takes the 7% royalty with them. |
+| 1 | Keep franchise owners renewing and in the network | Priya and the Owner Council; Lumen HQ | 11 of 40 studios renew on 31 March 2027. More than one owner says they won't pay for Ivy again, and two talk about leaving Lumen. Up to $5,500 a month in fees from those 11 studios is at stake, close to Ivy's $6,000 monthly cost. An owner who leaves also takes the 7% royalty with them. |
 | 2 | Turn more leads into paid members | Priya ("the only number we care about is paid memberships"); Dana | Owners earn from memberships, and Lumen takes 7%. A member stays 14 months on average, worth about $2,036 to the studio and $143 to Lumen. Only 8 of 250 leads (3.2%) bought in the last four weeks. |
 | 3 | A true measure of whether Ivy works, that the board can trust | Dana; the board | The dashboard's 31% "conversion" counts any reply from a lead, even complaints. It is not paid members. Dana has already quoted 31% to the CEO. |
 | 4 | Ivy follows Lumen's rules and protects the brand | Owners; Lumen HQ | Lumen's rules say billing, injury and "talk to a person" messages go to staff. Leads who are ignored walk into studios angry, and one left a one-star review. |

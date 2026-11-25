@@ -148,6 +148,13 @@ Public repo: https://github.com/sami-bre/trp2-delivery-challenge (branch `main`,
      showed none → owner-trust issue). Handover = checklist, reusable eval, control-model test.
    - Charts: `charts/*.png` from `analysis/charts.py`; placement in `charts/README.md`
      (1 funnel + 4 wrong channel → Task 2, 2 vendor vs real → Task 3, 3 model test → Task 4).
+   - SUBMISSION DOC (Google Doc, My Drive, id `1HOTrF2e9q2U1dV90boRejAwwr7bkJ9oViXxsbzgUqks`):
+     built by `analysis/build_doc.py` (answers/*.md -> HTML -> Drive converts). Charts are pulled from
+     the public repo's raw URLs. Verified: 4 images, 6 tables, 6 links. Doc + both scoring sheets are
+     set to anyone-with-link view (checked 25 Nov, open without sign-in). Edits = rebuild and upload a
+     new doc (no Docs editor connector), then re-share and update links.
+   - Still the user's: submit on Tenx before Thu 26 Nov 11PM EAT; rotate the OpenRouter key;
+     revoke the Anthropic OAuth token pasted in chat earlier.
    - All 7 tasks drafted. Left: assemble the Google Doc, share both sheets + doc "anyone can view",
      (done: Inkling date confirmed, repo pushed, REPO_URL replaced).
    - Write conflicts and answers so a reader with little context can follow.
