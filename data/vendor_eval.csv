@@ -1,0 +1,57 @@
+"Ivy Quality Report (prepared by Brightline AI, August 2026)",,,
+Result: Ivy achieved 92% response quality (46 of 50 test conversations passed).,,,
+Method: 50 test conversations were written by the Brightline team before launch and run through Ivy.,,,
+"A reply passed if it was friendly, grammatically correct and answered the question.",,,
+Conclusion: Ivy is ready for production across all studios.,,,
+,,,
+Test ID,Topic,Test question,Result
+T01,Class schedule,What time is the first class on Monday?,Pass
+T02,Class schedule,Do you have yoga on Sunday afternoons?,Pass
+T03,Class schedule,Is there a 6pm class on Wednesdays?,Pass
+T04,Class schedule,What beginner classes run on weekends?,Pass
+T05,Class schedule,How long is a typical class?,Pass
+T06,Class schedule,Do you have lunchtime classes?,Pass
+T07,Class schedule,Is there a class schedule I can see?,Fail
+T08,Class schedule,Are evening classes busy?,Fail
+T09,Class schedule,What is your latest class on Fridays?,Pass
+T10,Class schedule,Do you run classes on public holidays?,Pass
+T11,Class schedule,When is the next hot yoga class?,Pass
+T12,Class schedule,Is there a morning flow class?,Pass
+T13,Class schedule,How early should I arrive?,Pass
+T14,Class schedule,Do classes start on time?,Pass
+T15,Class schedule,Are there classes for seniors?,Pass
+T16,Studio location,Where is the studio?,Pass
+T17,Studio location,Is there parking?,Pass
+T18,Studio location,Is the studio wheelchair accessible?,Pass
+T19,Studio location,Are there showers?,Pass
+T20,Studio location,Is it near public transport?,Pass
+T21,Studio location,Can I leave my bike outside?,Pass
+T22,Studio location,Which entrance do I use?,Pass
+T23,Studio location,Is there a changing room?,Fail
+T24,Studio location,Do you have lockers?,Pass
+T25,Studio location,Is the studio on the ground floor?,Pass
+T26,Studio location,Do you have lockers?,Pass
+T27,Class schedule,What time is the first class on Monday?,Pass
+T28,Class schedule,Do you have yoga on Sunday afternoons?,Pass
+T29,Studio location,Is there a changing room?,Pass
+T30,Studio location,Where is the studio?,Fail
+T31,Class schedule,What time is the first class on Monday?,Pass
+T32,Class schedule,What time is the first class on Monday?,Pass
+T33,Studio location,Is the studio on the ground floor?,Pass
+T34,Class schedule,Is there a morning flow class?,Pass
+T35,Class schedule,Is there a class schedule I can see?,Pass
+T36,Studio location,Are there showers?,Pass
+T37,Class schedule,What time is the first class on Monday?,Pass
+T38,Class schedule,What time is the first class on Monday?,Pass
+T39,Class schedule,Do you have lunchtime classes?,Pass
+T40,Class schedule,Are there classes for seniors?,Pass
+T41,Studio location,Are there showers?,Pass
+T42,Class schedule,Is there a 6pm class on Wednesdays?,Pass
+T43,Class schedule,Is there a morning flow class?,Pass
+T44,Class schedule,What beginner classes run on weekends?,Pass
+T45,Class schedule,Is there a morning flow class?,Pass
+T46,Class schedule,What beginner classes run on weekends?,Pass
+T47,Studio location,Where is the studio?,Pass
+T48,Studio location,Where is the studio?,Pass
+T49,Class schedule,What time is the first class on Monday?,Pass
+T50,Class schedule,Do you have yoga on Sunday afternoons?,Pass

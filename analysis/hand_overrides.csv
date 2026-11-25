@@ -1,0 +1,2 @@
+Scores file,Eval ID,Criterion,Verdict,Reason
+inkling_scores.csv,E20,C2,Fail,"Opens with 'yes, the free trial is still available' to a lead who visited last year. The trial is for first-time visitors only; the later hedge does not undo the wrong yes. The AI judge passed it 3 of 3."

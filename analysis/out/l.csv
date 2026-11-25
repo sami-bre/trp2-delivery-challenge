@@ -1,0 +1,251 @@
+Lead ID,Lead name,Studio,Created,Source,Channel the lead used,Furthest stage,CA,first_ivy,Channel Ivy replied on,first_topic,resp_min,rank,replied,booked,bought,wrong_channel,any_wrong,dup
+L-1072,Adam J.,Lumen Ottawa Glebe,2026-10-19 10:07:00,Referral,SMS,No reply,True,2026-10-19 10:08:48,Email,Cancellation and freeze,1.8,0,False,False,False,True,True,False
+L-1111,Ines S.,Lumen Seattle Ballard,2026-10-19 15:17:00,Website form,SMS,No reply,False,2026-10-19 15:20:05,SMS,Pricing,3.0833333333333335,0,False,False,False,False,False,False
+L-1007,Theo C.,Lumen Atlanta Inman Park,2026-10-19 21:51:00,Website form,Email,No reply,False,2026-10-19 21:53:24,Email,Class schedule,2.4,0,False,False,False,False,False,False
+L-1019,Leah M.,Lumen Philadelphia Fishtown,2026-10-20 07:44:00,Studio QR code,Email,Replied,False,2026-10-20 07:46:19,Email,Class schedule,2.316666666666667,1,True,False,False,False,False,False
+L-1136,Diego K.,Lumen Brooklyn Park Slope,2026-10-20 08:39:00,Website form,SMS,No reply,False,2026-10-20 08:42:27,Email,Class schedule,3.45,0,False,False,False,True,True,False
+L-1085,Emily B.,Lumen Salt Lake City Sugar House,2026-10-20 10:43:00,Website form,Email,Trial attended,False,2026-10-20 10:45:04,Email,Class schedule,2.066666666666667,3,True,True,False,False,False,False
+L-1218,Fatima M.,Lumen Halifax North End,2026-10-20 10:47:00,Google ad,SMS,No reply,True,2026-10-20 10:48:54,SMS,Cancellation and freeze,1.9,0,False,False,False,False,False,False
+L-1040,Carmen C.,Lumen Houston Montrose,2026-10-20 11:25:00,Website form,SMS,No reply,False,2026-10-20 11:29:35,SMS,Pricing,4.583333333333333,0,False,False,False,False,False,False
+L-1131,Priya P.,Lumen Boston Back Bay,2026-10-20 11:48:00,Studio QR code,Email,Replied,False,2026-10-20 11:52:32,Email,Pricing,4.533333333333333,1,True,False,False,False,False,True
+L-1094,Jade Y.,Lumen Toronto Queen West,2026-10-20 12:12:00,Referral,SMS,No reply,True,2026-10-20 12:13:47,Email,Class schedule,1.7833333333333334,0,False,False,False,True,True,False
+L-1009,James E.,Lumen Minneapolis Uptown,2026-10-20 12:42:00,Website form,Email,No reply,False,2026-10-20 12:45:17,Email,Cancellation and freeze,3.283333333333333,0,False,False,False,False,False,False
+L-1124,Ines J.,Lumen San Diego North Park,2026-10-20 13:02:00,Website form,Email,Replied,False,2026-10-20 13:06:48,Email,Studio location,4.8,1,True,False,False,False,False,False
+L-1121,Kevin S.,Lumen Phoenix Arcadia,2026-10-20 14:38:00,Website form,Email,No reply,False,2026-10-20 14:42:48,Email,Pricing,4.8,0,False,False,False,False,False,False
+L-1038,Chloe W.,Lumen Philadelphia Fishtown,2026-10-20 15:16:00,Referral,SMS,No reply,False,2026-10-20 15:17:26,Email,Pricing,1.4333333333333333,0,False,False,False,True,True,False
+L-1227,Yuki K.,Lumen Dallas Bishop Arts,2026-10-20 16:07:00,Instagram ad,SMS,Trial attended,False,2026-10-20 16:09:29,SMS,Cancellation and freeze,2.4833333333333334,3,True,True,False,False,False,False
+L-1060,Adam N.,Lumen Miami Wynwood,2026-10-20 17:46:00,Website form,Email,No reply,False,2026-10-20 17:49:52,Email,Trial booking,3.8666666666666667,0,False,False,False,False,False,False
+L-1057,Isaac L.,Lumen Austin South Congress,2026-10-20 18:58:00,Website form,Email,Replied,False,2026-10-20 19:00:45,Email,Trial booking,2.75,1,True,False,False,False,False,False
+L-1161,Fatima E.,Lumen Halifax North End,2026-10-21 07:51:00,Referral,Email,No reply,True,2026-10-21 07:54:47,Email,Pricing,3.783333333333333,0,False,False,False,False,False,False
+L-1224,Ethan N.,Lumen Charlotte South End,2026-10-21 09:44:00,Studio QR code,SMS,No reply,False,2026-10-21 09:47:41,SMS,Studio location,3.683333333333333,0,False,False,False,False,False,False
+L-1080,James S.,Lumen Dallas Bishop Arts,2026-10-21 11:44:00,Studio QR code,Email,Replied,False,2026-10-21 11:48:07,Email,Cancellation and freeze,4.116666666666666,1,True,False,False,False,False,False
+L-1041,Ben P.,Lumen Toronto Leslieville,2026-10-21 12:08:00,Google ad,SMS,No reply,True,2026-10-21 12:12:31,SMS,Pricing,4.516666666666667,0,False,False,False,False,False,False
+L-1142,Daniel W.,Lumen Houston Montrose,2026-10-21 12:31:00,Instagram ad,Email,No reply,False,2026-10-21 12:35:35,Email,Cancellation and freeze,4.583333333333333,0,False,False,False,False,False,False
+L-1031,Aisha T.,Lumen Nashville East Nashville,2026-10-21 13:39:00,Instagram ad,Email,No reply,False,2026-10-21 13:42:05,Email,Cancellation and freeze,3.0833333333333335,0,False,False,False,False,False,False
+L-1204,Adam E.,Lumen Brooklyn Park Slope,2026-10-21 14:17:00,Website form,SMS,No reply,False,2026-10-21 14:20:00,Email,Class schedule,3.0,0,False,False,False,True,True,False
+L-1174,Ella K.,Lumen Charlotte South End,2026-10-21 14:40:00,Website form,Email,No reply,False,2026-10-21 14:42:56,Email,Trial booking,2.933333333333333,0,False,False,False,False,False,False
+L-1202,Diego B.,Lumen Dallas Bishop Arts,2026-10-21 15:37:00,Studio QR code,SMS,Trial attended,False,2026-10-21 15:39:15,SMS,Trial booking,2.25,3,True,True,False,False,False,False
+L-1221,Daniel J.,Lumen Victoria Fernwood,2026-10-21 17:06:00,Instagram ad,Email,No reply,True,2026-10-21 17:09:07,Email,Trial booking,3.1166666666666667,0,False,False,False,False,False,False
+L-1191,Leo T.,Lumen Portland Pearl District,2026-10-21 18:34:00,Website form,SMS,No reply,False,2026-10-21 18:36:42,SMS,Class schedule,2.7,0,False,False,False,False,False,False
+L-1179,Kai A.,Lumen Miami Wynwood,2026-10-21 19:11:00,Website form,SMS,No reply,False,2026-10-21 19:14:10,SMS,Pricing,3.1666666666666665,0,False,False,False,False,False,False
+L-1014,Owen L.,Lumen Philadelphia Fishtown,2026-10-21 20:16:00,Instagram ad,SMS,No reply,False,2026-10-21 20:19:59,SMS,Pricing,3.9833333333333334,0,False,False,False,False,False,False
+L-1216,Omar N.,Lumen Austin South Congress,2026-10-21 20:21:00,Website form,SMS,No reply,False,2026-10-21 20:23:19,SMS,Class schedule,2.316666666666667,0,False,False,False,False,False,False
+L-1045,Priya G.,Lumen Columbus Short North,2026-10-22 10:49:00,Website form,SMS,No reply,False,2026-10-22 10:52:27,SMS,Class schedule,3.45,0,False,False,False,False,False,False
+L-1199,Zoe A.,Lumen Pasadena Old Town,2026-10-22 12:27:00,Referral,SMS,No reply,False,2026-10-22 12:31:36,SMS,Trial booking,4.6,0,False,False,False,False,False,False
+L-1192,Amira S.,Lumen Denver Highlands,2026-10-22 15:22:00,Instagram ad,SMS,Trial attended,False,2026-10-22 15:24:10,SMS,Trial booking,2.1666666666666665,3,True,True,False,False,False,False
+L-1122,Isaac F.,Lumen Ottawa Glebe,2026-10-22 16:49:00,Instagram ad,SMS,Membership purchased,True,2026-10-22 16:50:18,SMS,Studio location,1.3,4,True,True,True,False,False,True
+L-1128,Liam H.,Lumen Minneapolis Uptown,2026-10-22 18:33:00,Google ad,SMS,Replied,False,2026-10-22 18:36:11,Email,Trial booking,3.183333333333333,1,True,False,False,True,True,False
+L-1245,Yuki A.,Lumen Portland Pearl District,2026-10-22 21:52:00,Website form,SMS,No reply,False,2026-10-22 21:56:22,Email,Pricing,4.366666666666666,0,False,False,False,True,True,False
+L-1056,Sofia A.,Lumen Ottawa Glebe,2026-10-23 10:27:00,Website form,SMS,No reply,True,2026-10-23 10:31:41,Email,Cancellation and freeze,4.683333333333334,0,False,False,False,True,True,True
+L-1034,Lily G.,Lumen Brooklyn Park Slope,2026-10-23 12:33:00,Website form,SMS,No reply,False,2026-10-23 12:36:11,SMS,Pricing,3.183333333333333,0,False,False,False,False,False,False
+L-1139,Nora K.,Lumen Vancouver Kitsilano,2026-10-23 13:52:00,Website form,SMS,No reply,True,2026-10-23 13:55:29,SMS,Pricing,3.4833333333333334,0,False,False,False,False,False,False
+L-1088,Kevin E.,Lumen Columbus Short North,2026-10-23 16:29:00,Website form,SMS,No reply,False,2026-10-23 16:31:58,SMS,Trial booking,2.966666666666667,0,False,False,False,False,False,False
+L-1103,Arjun T.,Lumen Houston Montrose,2026-10-23 18:13:00,Instagram ad,Email,Trial booked,False,2026-10-23 18:17:36,Email,Pricing,4.6,2,True,True,False,False,False,False
+L-1183,Daniel P.,Lumen Toronto Leslieville,2026-10-23 21:07:00,Instagram ad,SMS,No reply,True,2026-10-23 21:09:29,Email,Trial booking,2.4833333333333334,0,False,False,False,True,True,False
+L-1022,Zoe P.,Lumen Pasadena Old Town,2026-10-24 08:34:00,Instagram ad,SMS,No reply,False,2026-10-24 08:38:35,SMS,Trial booking,4.583333333333333,0,False,False,False,False,False,False
+L-1074,Sara H.,Lumen Philadelphia Fishtown,2026-10-24 08:37:00,Referral,Email,Replied,False,2026-10-24 08:38:04,Email,Class schedule,1.0666666666666667,1,True,False,False,False,False,True
+L-1028,Ethan G.,Lumen Ottawa Glebe,2026-10-24 14:06:00,Website form,Email,Replied,True,2026-10-24 14:08:44,Email,Pricing,2.7333333333333334,1,True,False,False,False,False,False
+L-1206,Theo G.,Lumen Denver Highlands,2026-10-24 14:25:00,Website form,Email,No reply,False,2026-10-24 14:26:29,Email,Class schedule,1.4833333333333334,0,False,False,False,False,False,False
+L-1150,Mateo B.,Lumen Montreal Plateau,2026-10-24 17:24:00,Website form,SMS,No reply,True,2026-10-24 17:25:21,SMS,Cancellation and freeze,1.35,0,False,False,False,False,False,False
+L-1119,Adam V.,Lumen Tampa Hyde Park,2026-10-24 18:23:00,Instagram ad,SMS,Replied,False,2026-10-24 18:24:30,SMS,Trial booking,1.5,1,True,False,False,False,False,False
+L-1146,Jack J.,Lumen Halifax North End,2026-10-25 07:31:00,Website form,SMS,No reply,True,2026-10-25 07:35:00,SMS,Class schedule,4.0,0,False,False,False,False,False,False
+L-1235,Carmen N.,Lumen Edmonton Whyte Ave,2026-10-25 08:36:00,Instagram ad,Email,No reply,True,2026-10-25 08:38:05,Email,Class schedule,2.0833333333333335,0,False,False,False,False,False,False
+L-1027,Kai E.,Lumen Vancouver Kitsilano,2026-10-25 09:05:00,Website form,SMS,No reply,True,2026-10-25 09:09:19,SMS,Cancellation and freeze,4.316666666666666,0,False,False,False,False,False,False
+L-1184,Isaac R.,Lumen Dallas Bishop Arts,2026-10-25 11:21:00,Google ad,Email,No reply,False,2026-10-25 11:22:01,Email,Studio location,1.0166666666666666,0,False,False,False,False,False,False
+L-1070,Adam G.,Lumen Sacramento Midtown,2026-10-25 12:08:00,Google ad,SMS,No reply,False,2026-10-25 12:12:15,SMS,Pricing,4.25,0,False,False,False,False,False,False
+L-1240,Josh W.,Lumen Boston Back Bay,2026-10-25 12:34:00,Website form,Email,Replied,False,2026-10-25 12:37:52,Email,Class schedule,3.8666666666666667,1,True,False,False,False,False,False
+L-1053,Fatima K.,Lumen Houston Montrose,2026-10-25 12:59:00,Instagram ad,SMS,No reply,False,2026-10-25 13:03:56,SMS,Trial booking,4.933333333333334,0,False,False,False,False,False,True
+L-1238,Elena P.,Lumen Scottsdale Old Town,2026-10-25 16:09:00,Google ad,SMS,No reply,False,2026-10-25 16:11:16,SMS,Class schedule,2.2666666666666666,0,False,False,False,False,False,True
+L-1151,Jack H.,Lumen Nashville East Nashville,2026-10-25 17:08:00,Studio QR code,SMS,No reply,False,2026-10-25 17:11:27,SMS,Pricing,3.45,0,False,False,False,False,False,False
+L-1083,Leo N.,Lumen Dallas Bishop Arts,2026-10-25 17:13:00,Website form,Email,No reply,False,2026-10-25 17:16:56,Email,Studio location,3.933333333333333,0,False,False,False,False,False,False
+L-1081,Grace E.,Lumen Scottsdale Old Town,2026-10-25 18:12:00,Instagram ad,Email,No reply,False,2026-10-25 18:13:33,Email,Pricing,1.55,0,False,False,False,False,False,False
+L-1100,Ravi W.,Lumen Minneapolis Uptown,2026-10-25 18:16:00,Google ad,Email,Replied,False,2026-10-25 18:19:10,Email,Pricing,3.1666666666666665,1,True,False,False,False,False,False
+L-1064,Liam S.,Lumen Vancouver Lonsdale,2026-10-25 21:13:00,Website form,SMS,No reply,True,2026-10-25 21:16:01,Email,Class schedule,3.0166666666666666,0,False,False,False,True,True,True
+L-1037,Sam J.,Lumen Nashville East Nashville,2026-10-25 21:22:00,Website form,SMS,Replied,False,2026-10-25 21:24:53,SMS,Pricing,2.8833333333333333,1,True,False,False,False,False,False
+L-1229,Kai K.,Lumen Victoria Fernwood,2026-10-25 21:38:00,Instagram ad,Email,Replied,True,2026-10-25 21:41:25,Email,Pricing,3.4166666666666665,1,True,False,False,False,False,False
+L-1173,Elena E.,Lumen Austin South Congress,2026-10-26 07:45:00,Studio QR code,Email,No reply,False,2026-10-26 07:49:39,Email,Class schedule,4.65,0,False,False,False,False,False,False
+L-1092,Ava R.,Lumen San Diego North Park,2026-10-26 12:43:00,Google ad,SMS,No reply,False,2026-10-26 12:47:34,Email,Trial booking,4.566666666666666,0,False,False,False,True,True,False
+L-1210,Sofia E.,Lumen Madison Willy Street,2026-10-26 14:00:00,Studio QR code,Email,No reply,False,2026-10-26 14:03:27,Email,Studio location,3.45,0,False,False,False,False,False,False
+L-1073,Lily F.,Lumen Scottsdale Old Town,2026-10-26 16:56:00,Referral,SMS,No reply,False,2026-10-26 16:59:01,Email,Pricing,3.0166666666666666,0,False,False,False,True,True,False
+L-1153,Josh K.,Lumen Sacramento Midtown,2026-10-26 19:24:00,Instagram ad,SMS,No reply,False,2026-10-26 19:28:53,SMS,Trial booking,4.883333333333334,0,False,False,False,False,False,False
+L-1071,Theo M.,Lumen Columbus Short North,2026-10-26 20:28:00,Google ad,SMS,No reply,False,2026-10-26 20:29:03,SMS,Pricing,1.05,0,False,False,False,False,False,False
+L-1061,Zoe T.,Lumen Tampa Hyde Park,2026-10-26 21:18:00,Instagram ad,Email,Replied,False,2026-10-26 21:22:59,Email,Pricing,4.983333333333333,1,True,False,False,False,False,False
+L-1186,Jack D.,Lumen Madison Willy Street,2026-10-27 09:50:00,Website form,SMS,No reply,False,2026-10-27 09:52:45,SMS,Studio location,2.75,0,False,False,False,False,False,False
+L-1024,Adam F.,Lumen Denver Highlands,2026-10-27 11:48:00,Studio QR code,SMS,No reply,False,2026-10-27 11:50:43,SMS,Pricing,2.716666666666667,0,False,False,False,False,False,False
+L-1068,Leo B.,Lumen Halifax North End,2026-10-27 12:14:00,Instagram ad,SMS,Replied,True,2026-10-27 12:18:44,SMS,Class schedule,4.733333333333333,1,True,False,False,False,False,True
+L-1196,Maria L.,Lumen Minneapolis Uptown,2026-10-27 14:14:00,Website form,SMS,No reply,False,2026-10-27 14:15:12,SMS,Pricing,1.2,0,False,False,False,False,False,False
+L-1171,Maria G.,Lumen Austin South Congress,2026-10-27 18:05:00,Website form,SMS,Replied,False,2026-10-27 18:06:14,SMS,Pricing,1.2333333333333334,1,True,False,False,False,False,False
+L-1039,Omar S.,Lumen Toronto Leslieville,2026-10-27 18:29:00,Instagram ad,SMS,No reply,True,2026-10-27 18:31:22,Email,Trial booking,2.3666666666666667,0,False,False,False,True,True,False
+L-1157,Omar G.,Lumen Richmond Carytown,2026-10-28 08:49:00,Google ad,Email,Membership purchased,False,2026-10-28 08:50:16,Email,Class schedule,1.2666666666666666,4,True,True,True,False,False,False
+L-1164,Leo F.,Lumen Calgary Kensington,2026-10-28 10:21:00,Website form,Email,No reply,True,2026-10-28 10:22:58,Email,Class schedule,1.9666666666666666,0,False,False,False,False,False,False
+L-1069,Hana P.,Lumen Philadelphia Fishtown,2026-10-28 10:27:00,Website form,SMS,No reply,False,2026-10-28 10:30:50,Email,Studio location,3.8333333333333335,0,False,False,False,True,True,False
+L-1093,Mia L.,Lumen San Diego North Park,2026-10-28 10:51:00,Website form,SMS,No reply,False,2026-10-28 10:54:14,SMS,Class schedule,3.2333333333333334,0,False,False,False,False,False,False
+L-1198,Kevin V.,Lumen Philadelphia Fishtown,2026-10-28 11:27:00,Studio QR code,SMS,No reply,False,2026-10-28 11:30:06,Email,Class schedule,3.1,0,False,False,False,True,True,False
+L-1087,Ben F.,Lumen Montreal Plateau,2026-10-28 11:52:00,Google ad,SMS,Replied,True,2026-10-28 11:56:04,SMS,Trial booking,4.066666666666666,1,True,False,False,False,False,True
+L-1195,Theo E.,Lumen Chicago Wicker Park,2026-10-28 12:12:00,Referral,SMS,No reply,False,2026-10-28 12:13:48,Email,Pricing,1.8,0,False,False,False,True,True,False
+L-1109,Amira H.,Lumen Brooklyn Park Slope,2026-10-28 14:18:00,Instagram ad,SMS,Replied,False,2026-10-28 14:21:52,SMS,Pricing,3.8666666666666667,1,True,False,False,False,False,True
+L-1194,Ben S.,Lumen Atlanta Inman Park,2026-10-28 15:49:00,Website form,Email,No reply,False,2026-10-28 15:50:08,Email,Class schedule,1.1333333333333333,0,False,False,False,False,False,False
+L-1078,Priya Y.,Lumen Montreal Plateau,2026-10-28 19:54:00,Website form,Email,Replied,True,2026-10-28 19:57:44,Email,Cancellation and freeze,3.7333333333333334,1,True,False,False,False,False,False
+L-1077,Leo S.,Lumen Salt Lake City Sugar House,2026-10-29 07:23:00,Website form,SMS,No reply,False,2026-10-29 07:27:54,SMS,Studio location,4.9,0,False,False,False,False,False,False
+L-1133,Ravi P.,Lumen Richmond Carytown,2026-10-29 08:11:00,Website form,Email,Replied,False,2026-10-29 08:13:02,Email,Class schedule,2.033333333333333,1,True,False,False,False,False,False
+L-1207,Kevin T.,Lumen Minneapolis Uptown,2026-10-29 09:40:00,Website form,Email,Replied,False,2026-10-29 09:42:59,Email,Class schedule,2.9833333333333334,1,True,False,False,False,False,True
+L-1249,Hana H.,Lumen Houston Montrose,2026-10-29 11:36:00,Studio QR code,SMS,No reply,False,2026-10-29 11:38:18,SMS,Trial booking,2.3,0,False,False,False,False,False,False
+L-1236,Hana M.,Lumen Vancouver Kitsilano,2026-10-29 12:22:00,Instagram ad,Email,Membership purchased,True,2026-10-29 12:23:21,Email,Class schedule,1.35,4,True,True,True,False,False,False
+L-1211,Maya R.,Lumen Chicago Wicker Park,2026-10-29 18:16:00,Website form,Email,No reply,False,2026-10-29 18:20:23,Email,Studio location,4.383333333333334,0,False,False,False,False,False,False
+L-1212,Mia W.,Lumen Chicago Wicker Park,2026-10-29 21:41:00,Instagram ad,SMS,No reply,False,2026-10-29 21:42:26,Email,Trial booking,1.4333333333333333,0,False,False,False,True,True,True
+L-1051,Omar K.,Lumen Dallas Bishop Arts,2026-10-30 07:51:00,Website form,Email,No reply,False,2026-10-30 07:55:21,Email,Class schedule,4.35,0,False,False,False,False,False,False
+L-1089,Owen R.,Lumen Pittsburgh Lawrenceville,2026-10-30 08:48:00,Website form,SMS,No reply,False,2026-10-30 08:49:56,SMS,Studio location,1.9333333333333333,0,False,False,False,False,False,False
+L-1144,Lily D.,Lumen Ottawa Glebe,2026-10-30 08:53:00,Studio QR code,Email,No reply,True,2026-10-30 08:55:14,Email,Class schedule,2.2333333333333334,0,False,False,False,False,False,False
+L-1214,Kai T.,Lumen Salt Lake City Sugar House,2026-10-30 09:47:00,Referral,Email,Membership purchased,False,2026-10-30 09:50:34,Email,Trial booking,3.566666666666667,4,True,True,True,False,False,False
+L-1162,Nora V.,Lumen Raleigh Five Points,2026-10-30 10:59:00,Website form,Email,No reply,False,2026-10-30 11:02:24,Email,Cancellation and freeze,3.4,0,False,False,False,False,False,False
+L-1018,Ines P.,Lumen Atlanta Inman Park,2026-10-30 11:48:00,Google ad,Email,Replied,False,2026-10-30 11:51:16,Email,Trial booking,3.2666666666666666,1,True,False,False,False,False,True
+L-1055,Luis F.,Lumen Calgary Kensington,2026-10-30 16:13:00,Google ad,Email,Replied,True,2026-10-30 16:14:41,Email,Class schedule,1.6833333333333333,1,True,False,False,False,False,True
+L-1138,Carmen W.,Lumen Halifax North End,2026-10-30 16:39:00,Instagram ad,SMS,No reply,True,2026-10-30 16:42:20,SMS,Studio location,3.3333333333333335,0,False,False,False,False,False,False
+L-1177,Arjun N.,Lumen Madison Willy Street,2026-10-30 18:03:00,Website form,Email,No reply,False,2026-10-30 18:04:32,Email,Trial booking,1.5333333333333334,0,False,False,False,False,False,False
+L-1050,Ines E.,Lumen Columbus Short North,2026-10-30 18:28:00,Instagram ad,SMS,No reply,False,2026-10-30 18:29:48,SMS,Studio location,1.8,0,False,False,False,False,False,True
+L-1160,Kevin G.,Lumen Brooklyn Park Slope,2026-10-30 21:46:00,Instagram ad,SMS,No reply,False,2026-10-30 21:47:10,Email,Class schedule,1.1666666666666667,0,False,False,False,True,True,True
+L-1143,Amira A.,Lumen Houston Montrose,2026-10-31 08:15:00,Instagram ad,SMS,No reply,False,2026-10-31 08:16:55,SMS,Cancellation and freeze,1.9166666666666667,0,False,False,False,False,False,False
+L-1166,Arjun B.,Lumen Scottsdale Old Town,2026-10-31 11:56:00,Website form,Email,Trial booked,False,2026-10-31 11:58:16,Email,Trial booking,2.2666666666666666,2,True,True,False,False,False,False
+L-1044,Fatima W.,Lumen Raleigh Five Points,2026-10-31 13:51:00,Website form,SMS,Membership purchased,False,2026-10-31 13:52:51,SMS,Class schedule,1.85,4,True,True,True,False,False,False
+L-1219,Adam M.,Lumen Ottawa Glebe,2026-10-31 16:39:00,Website form,SMS,No reply,True,2026-10-31 16:42:45,SMS,Pricing,3.75,0,False,False,False,False,False,False
+L-1058,Adam Y.,Lumen Chicago Wicker Park,2026-10-31 17:51:00,Website form,SMS,No reply,False,2026-10-31 17:54:13,Email,Class schedule,3.216666666666667,0,False,False,False,True,True,False
+L-1215,Grace F.,Lumen Phoenix Arcadia,2026-10-31 18:23:00,Website form,SMS,No reply,False,2026-10-31 18:27:34,SMS,Cancellation and freeze,4.566666666666666,0,False,False,False,False,False,True
+L-1163,Ella N.,Lumen Pasadena Old Town,2026-10-31 18:26:00,Instagram ad,SMS,Replied,False,2026-10-31 18:28:05,SMS,Studio location,2.0833333333333335,1,True,False,False,False,False,False
+L-1234,Jack B.,Lumen Chicago Wicker Park,2026-10-31 21:28:00,Website form,Email,No reply,False,2026-10-31 21:29:43,Email,Cancellation and freeze,1.7166666666666666,0,False,False,False,False,False,False
+L-1123,Arjun H.,Lumen Salt Lake City Sugar House,2026-11-01 08:37:00,Studio QR code,Email,Replied,False,2026-11-01 08:40:00,Email,Pricing,3.0,1,True,False,False,False,False,False
+L-1213,Lucas R.,Lumen Raleigh Five Points,2026-11-01 09:52:00,Referral,Email,Replied,False,2026-11-01 09:54:56,Email,Pricing,2.933333333333333,1,True,False,False,False,False,False
+L-1246,Elena R.,Lumen Denver Highlands,2026-11-01 10:49:00,Studio QR code,Email,No reply,False,2026-11-01 10:53:15,Email,Trial booking,4.25,0,False,False,False,False,False,False
+L-1016,Maya V.,Lumen Raleigh Five Points,2026-11-01 14:33:00,Website form,SMS,No reply,False,2026-11-01 14:37:35,SMS,Pricing,4.583333333333333,0,False,False,False,False,False,False
+L-1250,Lucas F.,Lumen Pittsburgh Lawrenceville,2026-11-01 15:01:00,Studio QR code,Email,Replied,False,2026-11-01 15:03:42,Email,Class schedule,2.7,1,True,False,False,False,False,False
+L-1239,Luis S.,Lumen Vancouver Lonsdale,2026-11-01 15:16:00,Studio QR code,SMS,No reply,True,2026-11-01 15:20:16,Email,Class schedule,4.266666666666667,0,False,False,False,True,True,True
+L-1023,Grace S.,Lumen Minneapolis Uptown,2026-11-01 17:06:00,Instagram ad,SMS,No reply,False,2026-11-01 17:08:19,SMS,Studio location,2.316666666666667,0,False,False,False,False,False,False
+L-1005,Emily E.,Lumen Madison Willy Street,2026-11-01 18:53:00,Website form,Email,No reply,False,2026-11-01 18:56:50,Email,Trial booking,3.8333333333333335,0,False,False,False,False,False,False
+L-1017,Kai P.,Lumen Richmond Carytown,2026-11-01 19:38:00,Studio QR code,SMS,No reply,False,2026-11-01 19:40:12,SMS,Pricing,2.2,0,False,False,False,False,False,False
+L-1189,Noah P.,Lumen Halifax North End,2026-11-01 21:09:00,Google ad,SMS,No reply,True,2026-11-01 21:11:46,SMS,Cancellation and freeze,2.7666666666666666,0,False,False,False,False,False,False
+L-1008,Daniel N.,Lumen Tampa Hyde Park,2026-11-02 07:10:00,Website form,SMS,No reply,False,2026-11-02 07:11:24,Email,Cancellation and freeze,1.4,0,False,False,False,True,True,True
+L-1132,Chloe Y.,Lumen Columbus Short North,2026-11-02 08:42:00,Google ad,SMS,No reply,False,2026-11-02 08:44:26,Email,Class schedule,2.433333333333333,0,False,False,False,True,True,False
+L-1187,Chloe C.,Lumen Pasadena Old Town,2026-11-02 10:45:00,Website form,SMS,No reply,False,2026-11-02 10:49:26,SMS,Trial booking,4.433333333333334,0,False,False,False,False,False,False
+L-1002,Aisha R.,Lumen Toronto Leslieville,2026-11-02 12:15:00,Instagram ad,Email,Replied,True,2026-11-02 12:19:58,Email,Class schedule,4.966666666666667,1,True,False,False,False,False,False
+L-1197,Chloe S.,Lumen Edmonton Whyte Ave,2026-11-02 12:47:00,Studio QR code,SMS,Trial attended,True,2026-11-02 12:50:32,SMS,Class schedule,3.533333333333333,3,True,True,False,False,False,True
+L-1046,Ava Y.,Lumen Scottsdale Old Town,2026-11-02 13:35:00,Website form,SMS,Replied,False,2026-11-02 13:36:38,SMS,Cancellation and freeze,1.6333333333333333,1,True,False,False,False,False,False
+L-1097,Ines R.,Lumen Portland Pearl District,2026-11-02 15:34:00,Referral,SMS,No reply,False,2026-11-02 15:37:14,Email,Trial booking,3.2333333333333334,0,False,False,False,True,True,False
+L-1104,Ines M.,Lumen Charlotte South End,2026-11-02 16:27:00,Google ad,SMS,No reply,False,2026-11-02 16:29:14,Email,Pricing,2.2333333333333334,0,False,False,False,True,True,False
+L-1036,Priya A.,Lumen Portland Pearl District,2026-11-02 16:47:00,Google ad,SMS,No reply,False,2026-11-02 16:48:12,Email,Pricing,1.2,0,False,False,False,True,True,False
+L-1032,Ella Y.,Lumen Toronto Leslieville,2026-11-02 16:58:00,Instagram ad,Email,No reply,True,2026-11-02 17:00:24,Email,Pricing,2.4,0,False,False,False,False,False,False
+L-1237,Claire C.,Lumen San Diego North Park,2026-11-02 19:38:00,Google ad,SMS,No reply,False,2026-11-02 19:41:42,Email,Class schedule,3.7,0,False,False,False,True,True,False
+L-1115,Ben E.,Lumen Brooklyn Park Slope,2026-11-02 19:52:00,Studio QR code,SMS,Replied,False,2026-11-02 19:54:10,SMS,Class schedule,2.1666666666666665,1,True,False,False,False,False,False
+L-1113,Chloe D.,Lumen Raleigh Five Points,2026-11-02 21:15:00,Website form,SMS,No reply,False,2026-11-02 21:19:28,SMS,Pricing,4.466666666666667,0,False,False,False,False,False,False
+L-1030,Jade C.,Lumen Toronto Queen West,2026-11-03 08:59:00,Website form,SMS,No reply,True,2026-11-03 09:00:33,SMS,Cancellation and freeze,1.55,0,False,False,False,False,False,False
+L-1152,Yuki Y.,Lumen Calgary Kensington,2026-11-03 11:44:00,Website form,Email,Trial booked,True,2026-11-03 11:48:52,Email,Pricing,4.866666666666666,2,True,True,False,False,False,False
+L-1230,Priya F.,Lumen Boston Back Bay,2026-11-03 12:17:00,Instagram ad,SMS,Membership purchased,False,2026-11-03 12:20:42,SMS,Studio location,3.7,4,True,True,True,False,False,False
+L-1112,Diego T.,Lumen Montreal Plateau,2026-11-03 14:26:00,Website form,SMS,No reply,True,2026-11-03 14:27:19,SMS,Class schedule,1.3166666666666667,0,False,False,False,False,False,False
+L-1107,James P.,Lumen Charlotte South End,2026-11-03 15:03:00,Studio QR code,SMS,No reply,False,2026-11-03 15:06:18,Email,Cancellation and freeze,3.3,0,False,False,False,True,True,False
+L-1205,Amira N.,Lumen Kansas City Crossroads,2026-11-03 20:10:00,Studio QR code,SMS,Replied,False,2026-11-03 20:12:32,SMS,Class schedule,2.533333333333333,1,True,False,False,False,False,False
+L-1208,Lucas S.,Lumen Oakland Rockridge,2026-11-03 20:38:00,Referral,Email,Trial booked,False,2026-11-03 20:39:04,Email,Studio location,1.0666666666666667,2,True,True,False,False,False,False
+L-1049,Ravi N.,Lumen Houston Montrose,2026-11-03 20:52:00,Studio QR code,Email,Membership purchased,False,2026-11-03 20:55:15,Email,Cancellation and freeze,3.25,4,True,True,True,False,False,False
+L-1200,James W.,Lumen Vancouver Lonsdale,2026-11-04 08:30:00,Website form,Email,Replied,True,2026-11-04 08:31:51,Email,Studio location,1.85,1,True,False,False,False,False,False
+L-1108,Ethan J.,Lumen Salt Lake City Sugar House,2026-11-04 10:43:00,Website form,Email,Replied,False,2026-11-04 10:46:05,Email,Trial booking,3.0833333333333335,1,True,False,False,False,False,True
+L-1082,Emily F.,Lumen Minneapolis Uptown,2026-11-04 10:54:00,Google ad,Email,No reply,False,2026-11-04 10:57:47,Email,Class schedule,3.783333333333333,0,False,False,False,False,False,False
+L-1084,Sofia J.,Lumen Montreal Plateau,2026-11-04 13:23:00,Website form,Email,Replied,True,2026-11-04 13:25:36,Email,Class schedule,2.6,1,True,False,False,False,False,False
+L-1232,Adam T.,Lumen Toronto Queen West,2026-11-04 15:16:00,Website form,SMS,No reply,True,2026-11-04 15:18:04,Email,Trial booking,2.066666666666667,0,False,False,False,True,True,False
+L-1099,Elena T.,Lumen Ottawa Glebe,2026-11-04 18:18:00,Instagram ad,Email,Replied,True,2026-11-04 18:19:45,Email,Studio location,1.75,1,True,False,False,False,False,False
+L-1155,Josh Y.,Lumen Edmonton Whyte Ave,2026-11-04 18:43:00,Website form,Email,No reply,True,2026-11-04 18:46:57,Email,Class schedule,3.95,0,False,False,False,False,False,True
+L-1180,Tyler K.,Lumen Vancouver Kitsilano,2026-11-04 18:51:00,Instagram ad,Email,No reply,True,2026-11-04 18:53:57,Email,Class schedule,2.95,0,False,False,False,False,False,False
+L-1096,Theo T.,Lumen Richmond Carytown,2026-11-05 09:37:00,Website form,SMS,No reply,False,2026-11-05 09:39:39,Email,Pricing,2.65,0,False,False,False,True,True,False
+L-1217,Jack F.,Lumen Houston Montrose,2026-11-05 11:02:00,Website form,SMS,No reply,False,2026-11-05 11:03:56,Email,Studio location,1.9333333333333333,0,False,False,False,True,True,False
+L-1042,Maya S.,Lumen Kansas City Crossroads,2026-11-05 12:42:00,Google ad,SMS,No reply,False,2026-11-05 12:43:31,SMS,Studio location,1.5166666666666666,0,False,False,False,False,False,False
+L-1013,Josh D.,Lumen San Diego North Park,2026-11-05 13:36:00,Instagram ad,Email,No reply,False,2026-11-05 13:38:27,Email,Studio location,2.45,0,False,False,False,False,False,True
+L-1102,Jack K.,Lumen Vancouver Kitsilano,2026-11-05 15:42:00,Instagram ad,Email,No reply,True,2026-11-05 15:44:10,Email,Class schedule,2.1666666666666665,0,False,False,False,False,False,False
+L-1203,Noah A.,Lumen Atlanta Inman Park,2026-11-05 16:08:00,Website form,SMS,Replied,False,2026-11-05 16:12:29,Email,Trial booking,4.483333333333333,1,True,False,False,True,True,False
+L-1156,Josh B.,Lumen Austin South Congress,2026-11-05 19:47:00,Website form,SMS,No reply,False,2026-11-05 19:50:20,SMS,Cancellation and freeze,3.3333333333333335,0,False,False,False,False,False,True
+L-1185,Zoe H.,Lumen Scottsdale Old Town,2026-11-05 20:44:00,Website form,SMS,No reply,False,2026-11-05 20:46:24,SMS,Trial booking,2.4,0,False,False,False,False,False,True
+L-1165,James C.,Lumen Madison Willy Street,2026-11-05 21:11:00,Website form,SMS,No reply,False,2026-11-05 21:14:17,Email,Cancellation and freeze,3.283333333333333,0,False,False,False,True,True,False
+L-1101,Sara T.,Lumen Philadelphia Fishtown,2026-11-06 07:14:00,Google ad,Email,No reply,False,2026-11-06 07:16:55,Email,Class schedule,2.9166666666666665,0,False,False,False,False,False,False
+L-1062,Theo F.,Lumen Columbus Short North,2026-11-06 07:53:00,Instagram ad,SMS,Replied,False,2026-11-06 07:56:43,SMS,Pricing,3.716666666666667,1,True,False,False,False,False,False
+L-1126,Ines V.,Lumen Scottsdale Old Town,2026-11-06 07:55:00,Website form,SMS,Replied,False,2026-11-06 07:58:20,SMS,Cancellation and freeze,3.3333333333333335,1,True,False,False,False,False,False
+L-1176,Noah T.,Lumen Philadelphia Fishtown,2026-11-06 08:19:00,Website form,SMS,No reply,False,2026-11-06 08:20:38,Email,Class schedule,1.6333333333333333,0,False,False,False,True,True,False
+L-1047,Jade J.,Lumen Richmond Carytown,2026-11-06 08:30:00,Google ad,Email,No reply,False,2026-11-06 08:34:37,Email,Trial booking,4.616666666666666,0,False,False,False,False,False,False
+L-1175,Owen B.,Lumen Seattle Ballard,2026-11-06 08:55:00,Instagram ad,SMS,No reply,False,2026-11-06 08:59:57,Email,Pricing,4.95,0,False,False,False,True,True,False
+L-1025,Ravi S.,Lumen Boston Back Bay,2026-11-06 10:35:00,Instagram ad,SMS,Replied,False,2026-11-06 10:37:55,SMS,Studio location,2.9166666666666665,1,True,False,False,False,False,False
+L-1090,Elena K.,Lumen Nashville East Nashville,2026-11-06 11:29:00,Website form,Email,No reply,False,2026-11-06 11:30:16,Email,Pricing,1.2666666666666666,0,False,False,False,False,False,False
+L-1231,Emily L.,Lumen Pasadena Old Town,2026-11-06 12:55:00,Website form,SMS,Replied,False,2026-11-06 12:59:15,SMS,Studio location,4.25,1,True,False,False,False,False,False
+L-1091,Ella B.,Lumen Sacramento Midtown,2026-11-06 14:43:00,Google ad,SMS,Trial attended,False,2026-11-06 14:45:32,SMS,Studio location,2.533333333333333,3,True,True,False,False,False,True
+L-1244,Amira V.,Lumen Calgary Kensington,2026-11-06 15:40:00,Instagram ad,SMS,No reply,True,2026-11-06 15:43:56,SMS,Class schedule,3.933333333333333,0,False,False,False,False,False,False
+L-1241,Aisha L.,Lumen Seattle Ballard,2026-11-06 16:27:00,Instagram ad,Email,No reply,False,2026-11-06 16:28:42,Email,Trial booking,1.7,0,False,False,False,False,False,False
+L-1223,Carmen B.,Lumen Calgary Kensington,2026-11-06 17:12:00,Google ad,SMS,No reply,True,2026-11-06 17:13:05,Email,Class schedule,1.0833333333333333,0,False,False,False,True,True,False
+L-1141,Mateo E.,Lumen Toronto Leslieville,2026-11-06 18:41:00,Website form,SMS,No reply,True,2026-11-06 18:43:33,SMS,Trial booking,2.55,0,False,False,False,False,False,False
+L-1225,Luis L.,Lumen Chicago Wicker Park,2026-11-06 20:02:00,Website form,Email,No reply,False,2026-11-06 20:05:29,Email,Pricing,3.4833333333333334,0,False,False,False,False,False,False
+L-1076,Ravi E.,Lumen Sacramento Midtown,2026-11-07 07:45:00,Studio QR code,SMS,No reply,False,2026-11-07 07:46:04,SMS,Pricing,1.0666666666666667,0,False,False,False,False,False,False
+L-1015,Claire L.,Lumen Toronto Leslieville,2026-11-07 11:57:00,Referral,SMS,No reply,True,2026-11-07 11:59:12,Email,Pricing,2.2,0,False,False,False,True,True,False
+L-1033,Kai L.,Lumen Denver Highlands,2026-11-07 14:20:00,Studio QR code,SMS,No reply,False,2026-11-07 14:23:34,Email,Pricing,3.566666666666667,0,False,False,False,True,True,False
+L-1110,Maria Y.,Lumen Edmonton Whyte Ave,2026-11-07 14:54:00,Website form,SMS,No reply,True,2026-11-07 14:55:30,SMS,Studio location,1.5,0,False,False,False,False,False,True
+L-1116,Tyler R.,Lumen Toronto Leslieville,2026-11-07 15:35:00,Google ad,Email,Replied,True,2026-11-07 15:38:10,Email,Trial booking,3.1666666666666665,1,True,False,False,False,False,False
+L-1188,Ethan R.,Lumen Vancouver Lonsdale,2026-11-07 15:41:00,Google ad,Email,No reply,True,2026-11-07 15:42:39,Email,Class schedule,1.65,0,False,False,False,False,False,False
+L-1209,Zoe V.,Lumen Tampa Hyde Park,2026-11-07 16:00:00,Website form,Email,No reply,False,2026-11-07 16:01:47,Email,Studio location,1.7833333333333334,0,False,False,False,False,False,False
+L-1147,Hana W.,Lumen Kansas City Crossroads,2026-11-07 18:09:00,Studio QR code,Email,No reply,False,2026-11-07 18:11:59,Email,Pricing,2.9833333333333334,0,False,False,False,False,False,True
+L-1181,Diego P.,Lumen Charlotte South End,2026-11-07 21:57:00,Studio QR code,SMS,No reply,False,2026-11-07 22:00:14,Email,Class schedule,3.2333333333333334,0,False,False,False,True,True,False
+L-1095,Sofia T.,Lumen Vancouver Lonsdale,2026-11-08 07:16:00,Website form,Email,Trial booked,True,2026-11-08 07:18:47,Email,Pricing,2.783333333333333,2,True,True,False,False,False,False
+L-1120,James V.,Lumen Victoria Fernwood,2026-11-08 07:42:00,Website form,SMS,No reply,True,2026-11-08 07:46:59,Email,Studio location,4.983333333333333,0,False,False,False,True,True,False
+L-1220,Amira F.,Lumen Pasadena Old Town,2026-11-08 08:54:00,Website form,Email,No reply,False,2026-11-08 08:57:26,Email,Trial booking,3.433333333333333,0,False,False,False,False,False,False
+L-1145,Daniel T.,Lumen Boston Back Bay,2026-11-08 09:16:00,Google ad,SMS,No reply,False,2026-11-08 09:19:54,Email,Pricing,3.9,0,False,False,False,True,True,False
+L-1182,Hana T.,Lumen Seattle Ballard,2026-11-08 10:42:00,Website form,Email,No reply,False,2026-11-08 10:46:49,Email,Cancellation and freeze,4.816666666666666,0,False,False,False,False,False,True
+L-1140,Mia Y.,Lumen Chicago Wicker Park,2026-11-08 12:04:00,Website form,Email,No reply,False,2026-11-08 12:07:38,Email,Pricing,3.6333333333333333,0,False,False,False,False,False,False
+L-1035,Arjun A.,Lumen Chicago Wicker Park,2026-11-08 12:16:00,Instagram ad,SMS,No reply,False,2026-11-08 12:19:03,Email,Cancellation and freeze,3.05,0,False,False,False,True,True,True
+L-1129,Liam N.,Lumen Pittsburgh Lawrenceville,2026-11-08 13:43:00,Website form,SMS,Membership purchased,False,2026-11-08 13:44:00,SMS,Pricing,1.0,4,True,True,True,False,False,False
+L-1190,Sara S.,Lumen Sacramento Midtown,2026-11-08 16:54:00,Instagram ad,Email,No reply,False,2026-11-08 16:57:00,Email,Pricing,3.0,0,False,False,False,False,False,False
+L-1159,Noah E.,Lumen Miami Wynwood,2026-11-08 18:46:00,Website form,Email,No reply,False,2026-11-08 18:49:58,Email,Studio location,3.966666666666667,0,False,False,False,False,False,False
+L-1003,Isaac A.,Lumen Ottawa Glebe,2026-11-09 07:38:00,Instagram ad,SMS,No reply,True,2026-11-09 07:42:28,Email,Trial booking,4.466666666666667,0,False,False,False,True,True,False
+L-1066,Isaac V.,Lumen Oakland Rockridge,2026-11-09 10:21:00,Website form,Email,No reply,False,2026-11-09 10:22:46,Email,Pricing,1.7666666666666666,0,False,False,False,False,False,False
+L-1242,Lucas C.,Lumen Austin South Congress,2026-11-09 11:54:00,Website form,SMS,No reply,False,2026-11-09 11:56:54,SMS,Cancellation and freeze,2.9,0,False,False,False,False,False,False
+L-1158,Leah L.,Lumen Boise North End,2026-11-09 12:37:00,Google ad,Email,No reply,False,2026-11-09 12:38:03,Email,Class schedule,1.05,0,False,False,False,False,False,False
+L-1029,James F.,Lumen Ottawa Glebe,2026-11-09 12:38:00,Instagram ad,SMS,No reply,True,2026-11-09 12:40:46,Email,Cancellation and freeze,2.7666666666666666,0,False,False,False,True,True,False
+L-1135,Adam W.,Lumen Oakland Rockridge,2026-11-09 14:24:00,Website form,Email,No reply,False,2026-11-09 14:28:11,Email,Studio location,4.183333333333334,0,False,False,False,False,False,False
+L-1154,Zoe M.,Lumen Kansas City Crossroads,2026-11-09 15:06:00,Google ad,SMS,Replied,False,2026-11-09 15:07:24,SMS,Class schedule,1.4,1,True,False,False,False,False,True
+L-1106,Yuki N.,Lumen Chicago Wicker Park,2026-11-09 15:17:00,Instagram ad,SMS,No reply,False,2026-11-09 15:20:00,SMS,Cancellation and freeze,3.0,0,False,False,False,False,False,False
+L-1059,Sam R.,Lumen Atlanta Inman Park,2026-11-09 19:28:00,Website form,Email,No reply,False,2026-11-09 19:30:30,Email,Cancellation and freeze,2.5,0,False,False,False,False,False,False
+L-1222,Emily M.,Lumen Nashville East Nashville,2026-11-10 08:36:00,Website form,Email,No reply,False,2026-11-10 08:40:59,Email,Pricing,4.983333333333333,0,False,False,False,False,False,False
+L-1170,Fatima Y.,Lumen Richmond Carytown,2026-11-10 09:22:00,Website form,SMS,Replied,False,2026-11-10 09:23:10,SMS,Pricing,1.1666666666666667,1,True,False,False,False,False,False
+L-1178,Mateo T.,Lumen Nashville East Nashville,2026-11-10 10:15:00,Instagram ad,Email,Replied,False,2026-11-10 10:18:01,Email,Class schedule,3.0166666666666666,1,True,False,False,False,False,False
+L-1167,Mia T.,Lumen Edmonton Whyte Ave,2026-11-10 11:46:00,Studio QR code,SMS,Replied,True,2026-11-10 11:47:32,SMS,Cancellation and freeze,1.5333333333333334,1,True,False,False,False,False,False
+L-1169,Diego H.,Lumen Victoria Fernwood,2026-11-10 15:04:00,Website form,Email,Replied,True,2026-11-10 15:07:36,Email,Pricing,3.6,1,True,False,False,False,False,False
+L-1201,James K.,Lumen Scottsdale Old Town,2026-11-10 15:29:00,Studio QR code,SMS,No reply,False,2026-11-10 15:31:14,Email,Trial booking,2.2333333333333334,0,False,False,False,True,True,True
+L-1010,Ava V.,Lumen Austin South Congress,2026-11-10 15:44:00,Google ad,SMS,No reply,False,2026-11-10 15:45:10,SMS,Cancellation and freeze,1.1666666666666667,0,False,False,False,False,False,False
+L-1067,Hana V.,Lumen Victoria Fernwood,2026-11-10 16:58:00,Referral,SMS,Replied,True,2026-11-10 17:01:23,SMS,Trial booking,3.3833333333333333,1,True,False,False,False,False,False
+L-1021,Ella P.,Lumen Denver Highlands,2026-11-10 18:29:00,Website form,SMS,No reply,False,2026-11-10 18:30:50,Email,Trial booking,1.8333333333333333,0,False,False,False,True,True,False
+L-1233,Josh L.,Lumen Nashville East Nashville,2026-11-11 09:47:00,Google ad,Email,Replied,False,2026-11-11 09:51:41,Email,Trial booking,4.683333333333334,1,True,False,False,False,False,False
+L-1006,Chloe A.,Lumen Portland Pearl District,2026-11-11 11:01:00,Website form,SMS,No reply,False,2026-11-11 11:02:56,SMS,Class schedule,1.9333333333333333,0,False,False,False,False,False,True
+L-1020,Jack G.,Lumen Tampa Hyde Park,2026-11-11 11:13:00,Website form,SMS,No reply,False,2026-11-11 11:14:54,SMS,Trial booking,1.9,0,False,False,False,False,False,False
+L-1011,Priya K.,Lumen Calgary Kensington,2026-11-11 13:12:00,Instagram ad,Email,No reply,True,2026-11-11 13:16:37,Email,Trial booking,4.616666666666666,0,False,False,False,False,False,False
+L-1130,Sam G.,Lumen Calgary Kensington,2026-11-11 14:06:00,Website form,SMS,No reply,True,2026-11-11 14:10:00,SMS,Cancellation and freeze,4.0,0,False,False,False,False,False,False
+L-1063,Mateo C.,Lumen Denver Highlands,2026-11-11 15:52:00,Website form,Email,No reply,False,2026-11-11 15:54:54,Email,Studio location,2.9,0,False,False,False,False,False,False
+L-1001,Elena M.,Lumen Portland Pearl District,2026-11-11 15:55:00,Website form,SMS,No reply,False,2026-11-11 15:57:33,SMS,Cancellation and freeze,2.55,0,False,False,False,False,False,False
+L-1043,Aisha J.,Lumen Sacramento Midtown,2026-11-11 18:42:00,Studio QR code,Email,No reply,False,2026-11-11 18:43:46,Email,Studio location,1.7666666666666666,0,False,False,False,False,False,False
+L-1248,Leo E.,Lumen Miami Wynwood,2026-11-11 19:40:00,Website form,SMS,No reply,False,2026-11-11 19:42:03,SMS,Class schedule,2.05,0,False,False,False,False,False,False
+L-1065,Lily B.,Lumen Atlanta Inman Park,2026-11-12 10:29:00,Referral,SMS,Trial booked,False,2026-11-12 10:33:04,Email,Trial booking,4.066666666666666,2,True,True,False,True,True,False
+L-1228,Adam L.,Lumen Calgary Kensington,2026-11-12 11:43:00,Instagram ad,SMS,Trial booked,True,2026-11-12 11:47:49,SMS,Studio location,4.816666666666666,2,True,True,False,False,False,False
+L-1134,Maria B.,Lumen Nashville East Nashville,2026-11-12 12:05:00,Instagram ad,Email,No reply,False,2026-11-12 12:07:22,Email,Class schedule,2.3666666666666667,0,False,False,False,False,False,True
+L-1148,Fatima A.,Lumen Vancouver Kitsilano,2026-11-12 12:27:00,Referral,SMS,Replied,True,2026-11-12 12:29:48,SMS,Trial booking,2.8,1,True,False,False,False,False,False
+L-1117,Ines B.,Lumen Sacramento Midtown,2026-11-12 12:48:00,Website form,SMS,No reply,False,2026-11-12 12:52:54,SMS,Trial booking,4.9,0,False,False,False,False,False,False
+L-1125,Lucas A.,Lumen Atlanta Inman Park,2026-11-12 14:12:00,Studio QR code,SMS,No reply,False,2026-11-12 14:14:29,SMS,Trial booking,2.4833333333333334,0,False,False,False,False,False,False
+L-1243,Sam H.,Lumen Pasadena Old Town,2026-11-13 08:43:00,Website form,Email,Replied,False,2026-11-13 08:45:09,Email,Class schedule,2.15,1,True,False,False,False,False,True
+L-1026,Grace N.,Lumen Houston Montrose,2026-11-13 15:58:00,Instagram ad,SMS,Trial booked,False,2026-11-13 16:00:26,SMS,Pricing,2.433333333333333,2,True,True,False,False,False,False
+L-1086,Carmen P.,Lumen Vancouver Kitsilano,2026-11-13 16:06:00,Google ad,SMS,No reply,True,2026-11-13 16:07:59,Email,Studio location,1.9833333333333334,0,False,False,False,True,True,True
+L-1105,Leah K.,Lumen Denver Highlands,2026-11-13 21:06:00,Instagram ad,Email,No reply,False,2026-11-13 21:07:17,Email,Trial booking,1.2833333333333334,0,False,False,False,False,False,False
+L-1052,Owen E.,Lumen Phoenix Arcadia,2026-11-14 08:27:00,Instagram ad,SMS,Replied,False,2026-11-14 08:28:43,Email,Studio location,1.7166666666666666,1,True,False,False,True,True,False
+L-1114,Ruby L.,Lumen Pasadena Old Town,2026-11-14 08:52:00,Website form,Email,Replied,False,2026-11-14 08:54:45,Email,Trial booking,2.75,1,True,False,False,False,False,False
+L-1193,Chloe H.,Lumen Philadelphia Fishtown,2026-11-14 09:28:00,Referral,SMS,No reply,False,2026-11-14 09:30:34,SMS,Pricing,2.566666666666667,0,False,False,False,False,False,True
+L-1004,Adam D.,Lumen Charlotte South End,2026-11-14 09:39:00,Google ad,SMS,No reply,False,2026-11-14 09:43:29,SMS,Pricing,4.483333333333333,0,False,False,False,False,False,False
+L-1054,Elena F.,Lumen Portland Pearl District,2026-11-14 10:04:00,Instagram ad,Email,No reply,False,2026-11-14 10:05:44,Email,Cancellation and freeze,1.7333333333333334,0,False,False,False,False,False,False
+L-1247,Tyler V.,Lumen Pasadena Old Town,2026-11-14 13:47:00,Instagram ad,SMS,No reply,False,2026-11-14 13:49:25,Email,Cancellation and freeze,2.4166666666666665,0,False,False,False,True,True,False
+L-1118,Daniel Y.,Lumen Boise North End,2026-11-14 14:36:00,Google ad,SMS,No reply,False,2026-11-14 14:37:38,SMS,Trial booking,1.6333333333333333,0,False,False,False,False,False,False
+L-1012,Arjun L.,Lumen Columbus Short North,2026-11-14 14:53:00,Website form,SMS,Replied,False,2026-11-14 14:55:02,SMS,Class schedule,2.033333333333333,1,True,False,False,False,False,False
+L-1172,Fatima B.,Lumen Austin South Congress,2026-11-14 15:39:00,Google ad,SMS,No reply,False,2026-11-14 15:43:53,SMS,Class schedule,4.883333333333334,0,False,False,False,False,False,False
+L-1137,Lucas D.,Lumen Toronto Leslieville,2026-11-14 15:50:00,Instagram ad,Email,No reply,True,2026-11-14 15:51:49,Email,Trial booking,1.8166666666666667,0,False,False,False,False,False,False
+L-1226,Noah H.,Lumen Scottsdale Old Town,2026-11-14 16:08:00,Google ad,SMS,No reply,False,2026-11-14 16:09:01,Email,Studio location,1.0166666666666666,0,False,False,False,True,True,False
+L-1098,Lily E.,Lumen Boston Back Bay,2026-11-14 18:53:00,Website form,Email,Trial attended,False,2026-11-14 18:57:49,Email,Pricing,4.816666666666666,3,True,True,False,False,False,False
+L-1127,Ava K.,Lumen Boise North End,2026-11-14 18:57:00,Website form,SMS,No reply,False,2026-11-14 18:59:27,Email,Pricing,2.45,0,False,False,False,True,True,False
+L-1048,Grace P.,Lumen Tampa Hyde Park,2026-11-14 19:39:00,Referral,SMS,Replied,False,2026-11-14 19:40:17,SMS,Cancellation and freeze,1.2833333333333334,1,True,False,False,False,False,False
+L-1168,Mateo G.,Lumen Ottawa Glebe,2026-11-15 15:27:00,Google ad,SMS,Replied,True,2026-11-15 15:30:31,SMS,Pricing,3.5166666666666666,1,True,False,False,False,False,True
+L-1075,Owen A.,Lumen Chicago Wicker Park,2026-11-15 15:52:00,Instagram ad,Email,No reply,False,2026-11-15 15:53:18,Email,Class schedule,1.3,0,False,False,False,False,False,False
+L-1149,Chloe L.,Lumen Nashville East Nashville,2026-11-15 17:42:00,Website form,Email,No reply,False,2026-11-15 17:44:22,Email,Cancellation and freeze,2.3666666666666667,0,False,False,False,False,False,False
+L-1079,Leo H.,Lumen Dallas Bishop Arts,2026-11-15 18:16:00,Google ad,SMS,No reply,False,2026-11-15 18:20:44,Email,Trial booking,4.733333333333333,0,False,False,False,True,True,False
